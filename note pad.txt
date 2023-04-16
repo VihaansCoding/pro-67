@@ -1,0 +1,9 @@
+cd desktop- changes directory to desktop
+git clone link- creates a duplicate link on your desktop
+cd monkey-chunky- changes directory to monkey chunky
+you did the changes on App.js and save it
+git status- check the satus and tells me which files were moddified
+git add- it helps you add the file where you made the changes
+git commit -m'changes made'- this will commit the changes
+git push- which will upload the changes into the github file
+git log- showing you who made the changes
